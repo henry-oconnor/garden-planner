@@ -1,0 +1,14 @@
+C:\Users\hoconnor\Documents\Garden\GardenApi\bin\Debug\netcoreapp2.1\GardenApi.deps.json
+C:\Users\hoconnor\Documents\Garden\GardenApi\bin\Debug\netcoreapp2.1\GardenApi.runtimeconfig.json
+C:\Users\hoconnor\Documents\Garden\GardenApi\bin\Debug\netcoreapp2.1\GardenApi.runtimeconfig.dev.json
+C:\Users\hoconnor\Documents\Garden\GardenApi\bin\Debug\netcoreapp2.1\GardenApi.dll
+C:\Users\hoconnor\Documents\Garden\GardenApi\bin\Debug\netcoreapp2.1\GardenApi.pdb
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.csprojAssemblyReference.cache
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.csproj.CoreCompileInputs.cache
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.RazorAssemblyInfo.cache
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.RazorAssemblyInfo.cs
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.AssemblyInfoInputs.cache
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.AssemblyInfo.cs
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.RazorTargetAssemblyInfo.cache
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.dll
+C:\Users\hoconnor\Documents\Garden\GardenApi\obj\Debug\netcoreapp2.1\GardenApi.pdb
